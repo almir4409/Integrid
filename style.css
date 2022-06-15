@@ -1,0 +1,11 @@
+#ulList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+.navButtons{
+    display: inline;
+    float: right;
+    padding: 3px;
+    margin-right: 20px;
+  }
